@@ -33,3 +33,5 @@
 *.vcxproj.user
 *.suo
 ipch/
+Debug/
+*/Debug/
